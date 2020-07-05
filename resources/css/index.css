@@ -49,7 +49,7 @@ nav {
     color: white;
     font-size: 6vw;
     font-family: monospace;
-    border-right: 5px solid;
+    border-right: 0.5vw solid;
     animation-name: blink;
     animation-duration: .3s;
     animation-timing-function: step-end;
