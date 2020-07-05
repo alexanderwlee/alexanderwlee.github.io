@@ -36,6 +36,12 @@ nav {
     background-image: url('../img/background.JPG');
 }
 
+@media only screen and (max-width:749px) {
+    #home, #contact {
+        background-attachment: inherit;
+    }
+}
+
 .greeting {
     padding-top: 35vh;
     padding-bottom: 20vh;
