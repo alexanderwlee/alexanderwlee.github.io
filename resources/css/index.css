@@ -27,7 +27,7 @@ nav {
     font-size: 20px;
 }
 
-#home {
+#home, #contact {
     min-height: 100vh;
     background-attachment: fixed;
     background-position: center;
@@ -38,27 +38,18 @@ nav {
 
 .greeting {
     padding-top: 35vh;
-    padding-bottom: 18vh;
+    padding-bottom: 20vh;
 }
 
 
  #greeting-text, #greeting-text-2 {
     color: white;
-    font-size: 5vw;
+    font-size: 4.6vw;
     font-family: monospace;
 }
 
-@keyframes blink { 
-    50% { border-color: transparent; } 
- }
-
 #greeting-text {
-    border-right: 0.5vw solid;
-    animation-name: blink;
-    animation-duration: .3s;
-    animation-timing-function: step-end;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
+    border-right: 1.5vw solid;
 }
 
 .contacts {
@@ -109,4 +100,20 @@ h5 {
 
 #fidelity-investments {
     padding-bottom: 8vh;
+}
+
+#contact {
+    margin-top: 10vh;
+}
+
+.reach-out {
+    padding-top: 40vh;   
+    padding-bottom: 25vh;
+}
+
+#contact-text {
+    color: white;
+    font-size: 3.9vw;
+    font-family: monospace;
+    border-right: 1.3vw solid;
 }
