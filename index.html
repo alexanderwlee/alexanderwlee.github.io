@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="resources/css/index.css">
 </head>
 
@@ -43,7 +44,7 @@
                     <h2 class="offset-1"id="greeting-text-2"><span>&#8203;</span></h2>
                 </div>
             </div>
-            <div class="contacts row">
+            <div class="contacts row" data-aos="fade-down">
                 <div class="mx-auto">
                     <a href="resources/pdf/Alexander Lee Resume.pdf">
                         <i class="fa fa-file-text fa-inverse"></i>
@@ -62,16 +63,16 @@
         </div>
         <div class="container" id="about">
             <div class="row">
-                <div class="mx-auto">
+                <div class="mx-auto" data-aos="fade-up">
                     <h2>About Me</h2>
                     <hr>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-5 my-auto">
+                <div class="col-lg-5 my-auto" data-aos="fade-right">
                     <img id="headshot" src="resources/img/headshot.JPG">
                 </div>
-                <div class="col-lg-7 my-auto">
+                <div class="col-lg-7 my-auto" data-aos="fade-left">
                     <p>
                         Hello! I'm currently a rising junior at Amherst College double majoring in
                         computer science and mathematics. I was born in Hong Kong, and then moved to Beijing when
@@ -94,12 +95,12 @@
         </div>
         <div class="container" id="experience">
             <div class="row">
-                <div class="mx-auto">
+                <div class="mx-auto" data-aos="fade-up">
                     <h2>Experience</h2>
                     <hr>
                 </div>
             </div>
-            <div class="row" id="fidelity-investments">
+            <div class="row" id="fidelity-investments" data-aos="fade-right">
                 <div class="col-lg-5 my-auto">
                     <img id="fidelity-investments-img" src="resources/img/fidelity-investments.png">
                 </div>
@@ -116,7 +117,7 @@
                     </p>
                 </div>
             </div>
-            <div class="row" id="health-sqyre">
+            <div class="row" id="health-sqyre" data-aos="fade-left">
                 <div class="col-lg-5 my-auto">
                     <img id="health-sqyre-img" src="resources/img/health-sqyre.png">
                 </div>
@@ -144,6 +145,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
     <script src="resources/js/index.js"></script>
 </body>
 
