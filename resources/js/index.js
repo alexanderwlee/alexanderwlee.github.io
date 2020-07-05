@@ -4,7 +4,7 @@ function sleep(ms) {
 
 async function typeWriter() {
     var i = 0;
-    var greetingText = "Hi! I\'m Alex Lee.";
+    var greetingText = "Hi, I\'m Alex Lee.";
     var greetingTextLength = greetingText.length;
     var j = greetingTextLength;
     while (true) {
