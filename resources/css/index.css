@@ -28,7 +28,7 @@ nav {
 }
 
 #home, #contact {
-    min-height: 100vmin;
+    min-height: 100vh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,8 +37,8 @@ nav {
 }
 
 .greeting {
-    padding-top: 35vmin;
-    padding-bottom: 20vmin;
+    padding-top: 35vh;
+    padding-bottom: 20vh;
 }
 
 
@@ -107,13 +107,13 @@ h5 {
 }
 
 .reach-out {
-    padding-top: 40vmin;   
-    padding-bottom: 20vmin;
+    padding-top: 40vh;   
+    padding-bottom: 25vh;
 }
 
 #contact-text {
     color: white;
-    font-size: 3.8vw;
+    font-size: 3.9vw;
     font-family: monospace;
     border-right: 1.3vw solid;
 }
