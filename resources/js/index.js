@@ -4,7 +4,7 @@ function sleep(ms) {
 
 async function typeWriter() {
     var i = 0;
-    var greetingText = "Hi! I\'m Alex Lee.";
+    var greetingText = "> print(\"Hi, I'm Alex Lee!\")";
     var greetingTextLength = greetingText.length;
     var j = greetingTextLength;
     while (true) {
@@ -13,9 +13,11 @@ async function typeWriter() {
             i++;
             await sleep(75);
             if (i == greetingTextLength) {
+                document.getElementById('greeting-text-2').innerHTML = "Hi, I'm Alex Lee!";
                 await sleep(3000);
+                document.getElementById('greeting-text-2').innerHTML = "<span>&#8203;</span>";
             }
-        } else if (i == greetingTextLength && j > 1) {
+        } else if (i == greetingTextLength && j > 2) {
             document.getElementById('greeting-text').innerHTML = greetingText.slice(0, j - 1);
             j--;
             await sleep(60);

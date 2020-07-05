@@ -36,9 +36,16 @@ nav {
     background-image: url('../img/background.JPG');
 }
 
-#greeting {
-    padding-top: 25vh;
-    text-align: center;
+.greeting {
+    padding-top: 14vh;
+    padding-bottom: 24vh;
+}
+
+
+ #greeting-text, #greeting-text-2 {
+    color: white;
+    font-size: 5vw;
+    font-family: monospace;
 }
 
 @keyframes blink { 
@@ -46,9 +53,6 @@ nav {
  }
 
 #greeting-text {
-    color: white;
-    font-size: 6vw;
-    font-family: monospace;
     border-right: 0.5vw solid;
     animation-name: blink;
     animation-duration: .3s;
@@ -57,9 +61,7 @@ nav {
     animation-direction: alternate;
 }
 
-
 .contacts {
-    padding-top: 25vh;
     text-align: center;
 }
 
@@ -68,11 +70,11 @@ nav {
 }
 
 .contacts i {
-    padding: 3vmin;
     background-color: rgba(0,0,0,0.5);
     border-radius: 50%;
-    margin-left: 0.5vw;
-    margin-right: 0.5vw;
+    font-size: 8vmin;
+    padding: 2vmin;
+    margin: 0.5vmin;
 }
 
 i:hover {
