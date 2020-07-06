@@ -34,6 +34,7 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url('../img/background.JPG');
+    position: relative;
 }
 
 @media only screen and (max-width:749px) {
@@ -42,9 +43,9 @@ nav {
     }
 }
 
-.greeting {
-    padding-top: 35vh;
-    padding-bottom: 20vh;
+.greeting, .reach-out {
+    position: absolute;
+    top: 35%;
 }
 
 
@@ -60,6 +61,10 @@ nav {
 
 .contacts {
     text-align: center;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 70%;
 }
 
 .contacts a {
@@ -108,13 +113,8 @@ h5 {
     padding-bottom: 8vh;
 }
 
-#contact {
-    margin-top: 10vh;
-}
-
-.reach-out {
-    padding-top: 40vh;   
-    padding-bottom: 25vh;
+#experience {
+    margin-bottom: 10vh;
 }
 
 #contact-text {
