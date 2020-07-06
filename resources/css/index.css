@@ -95,7 +95,7 @@ i:hover {
     padding-bottom: 5vh;
 }
 
-#fidelity-investments-img, #health-sqyre-img {
+#fidelity-investments-img, #health-sqyre-img, #amherst-college-img {
     width: 100%;
     min-width: 260px;
     padding-bottom: 3vh;
@@ -109,7 +109,7 @@ h5 {
     color: rgb(157, 184, 213);
 }
 
-#fidelity-investments {
+#fidelity-investments, #health-sqyre {
     padding-bottom: 8vh;
 }
 
