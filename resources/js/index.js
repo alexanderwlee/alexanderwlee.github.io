@@ -16,7 +16,7 @@ async function typeWriter(elemId, text) {
         if (i < textLength) {
             document.getElementById(elemId).innerHTML += text.charAt(i);
             i++;
-            await sleep(75);
+            await sleep(120);
             if (i == textLength) {
                 if (elemId == 'greeting-text') {
                     await greetingTypeWriterReturn();
@@ -27,7 +27,7 @@ async function typeWriter(elemId, text) {
         } else if (i == textLength && j > 2) {
             document.getElementById(elemId).innerHTML = text.slice(0, j - 1);
             j--;
-            await sleep(60);
+            await sleep(90);
         } else {
             i = 1;
             j = textLength;
