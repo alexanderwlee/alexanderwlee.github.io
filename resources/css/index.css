@@ -27,6 +27,10 @@ nav {
     font-size: 20px;
 }
 
+a {
+    color: rgb(107, 134, 180);
+}
+
 #home, #contact {
     min-height: 100vh;
     background-attachment: fixed;
