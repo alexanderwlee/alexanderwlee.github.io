@@ -51,7 +51,7 @@ increased development and testing efficiency by building Flask web applications
 for interacting with company utilized APIs. Lastly, I streamlined the company's
 partner onboarding process by writing product mapping automation scripts.
 
-## Department of Computer Science of Amherst College ![](assets/img/amherst.png){: width="20%" align="right"}
+## Amherst College CS Department ![](assets/img/amherst.png){: width="20%" align="right"}
 
 ### Research Assistant, Fall 2020 - Spring 2022
 
