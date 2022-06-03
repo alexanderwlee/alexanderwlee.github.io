@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-a:hover:not(h1 a:hover) { // exclude header hover
+a:hover, a:focus {
   font-weight: normal; // overriding default bold
+}
+
+h1 a:hover {
+  font-weight: bold; // keep default bold for header
 }
