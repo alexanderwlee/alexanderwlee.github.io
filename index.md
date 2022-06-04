@@ -1,21 +1,23 @@
 <br>
 
-Hello! I'm currently a rising senior at Amherst College double majoring in
-computer science and mathematics. I'm interested in software engineering and
-product management, and I am very fortunate to have interned as a software
-engineer at Microsoft, Fidelity Investments, and Health Sqyre, a medical device
-e-commerce startup. Most of my experience is in back-end development, but I've
-recently been improving my skills in product management.
+I am an incoming **software engineer** at
+[Microsoft](https://www.microsoft.com/) and will be joining the company in the
+Fall of 2022. I am also a recent graduate from [Amherst
+College](https://www.amherst.edu/) with a Bachelor of Arts in [computer
+science](https://www.amherst.edu/academiclife/departments/computer_science) and
+[mathematics](https://www.amherst.edu/academiclife/departments/mathematics-statistics).
+At Amherst, I was involved in the [Amherst College Data*
+Mammoths](https://acdmammoths.github.io/) research and learning group, where I
+worked as a **research assistant** under the leadership  of [Matteo
+Riondato](https://matteo.rionda.to/). Prior to research, I worked for the
+Department of Computer Science as both a **teaching assistant** and **peer
+tutor** for multiple computer science courses. I was also formerly the
+**president** of Amherst's Computer Science Club.
 
-At Amherst, I'm part of the [Amherst College Data*
-Mammoths](https://acdmammoths.github.io/) research and learning group where I
-work as a research assistant. Before that, I worked for the Computer Science
-Department as both a Teaching Assistant and Peer Tutor for multiple computer
-science courses. I am also currently the President of Amherst's Computer Science
-Club. Outside of academics, I've held leadership positions in Amherst's Asian
-Students Association as Co-Chair of the Asian Men's Collective and as Treasurer
-of the Chinese Students Association. As for hobbies, I've grown up playing
-cello, guitar, ice hockey, tennis, and rugby!
+Outside of academics, I've held leadership positions in Amherst's Asian Students
+Association as Co-Chair of the Asian Men's Collective and as Treasurer of the
+Chinese Students Association. As for hobbies, I grew up playing ice hockey,
+tennis, rugby, cello, and guitar!
 
 # Experience
 
