@@ -2,15 +2,15 @@
 
 I am an incoming **software engineer** at
 [Microsoft](https://www.microsoft.com/) and will be joining the company in the
-Fall of 2022. I am also a recent graduate of [Amherst
+Fall of 2022. I graduated **_summa cum laude_** from [Amherst
 College](https://www.amherst.edu/) with a Bachelor of Arts in [computer
 science](https://www.amherst.edu/academiclife/departments/computer_science) and
-[mathematics](https://www.amherst.edu/academiclife/departments/mathematics-statistics).
-At Amherst, I was involved in the [Amherst College Data*
-Mammoths](https://acdmammoths.github.io/) research and learning group, where I
-worked as a **research assistant** under the leadership  of [Matteo
-Riondato](https://matteo.rionda.to/). Prior to research, I worked for the
-Department of Computer Science as both a **teaching assistant** and **peer
+[mathematics](https://www.amherst.edu/academiclife/departments/mathematics-statistics)
+and received the **Computer Science Prize**. At Amherst, I was involved in the
+[Amherst College Data* Mammoths](https://acdmammoths.github.io/) research and
+learning group, where I worked as a **research assistant** under the leadership
+of [Matteo Riondato](https://matteo.rionda.to/). Prior to research, I worked for
+the Department of Computer Science as both a **teaching assistant** and **peer
 tutor** for multiple computer science courses. I was the **president** of the
 Amherst College Computer Science Club.
 
@@ -46,8 +46,8 @@ Elasticsearch to route customers to the appropriate contact centers.
 
 ### Software Engineer Intern, Summer 2019
 
-I worked with a team of engineers to develop Flask microservices for the
-startup's medical devices e-commerce platform. I primarily focused on increasing
+I worked with a team of engineers to develop Flask microservices for the startup
+company's medical devices e-commerce platform. I primarily focused on increasing
 the accuracy of parsing patient medical insurance data for the company's
 insurance payment microservice. Furthermore, I enhanced building and testing
 efficiency among engineers by developing Flask web applications for querying
