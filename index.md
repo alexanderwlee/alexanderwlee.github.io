@@ -2,7 +2,7 @@
 
 I am an incoming **software engineer** at
 [Microsoft](https://www.microsoft.com/) and will be joining the company in the
-Fall of 2022. I am also a recent graduate from [Amherst
+Fall of 2022. I am also a recent graduate of [Amherst
 College](https://www.amherst.edu/) with a Bachelor of Arts in [computer
 science](https://www.amherst.edu/academiclife/departments/computer_science) and
 [mathematics](https://www.amherst.edu/academiclife/departments/mathematics-statistics).
@@ -11,8 +11,8 @@ Mammoths](https://acdmammoths.github.io/) research and learning group, where I
 worked as a **research assistant** under the leadership  of [Matteo
 Riondato](https://matteo.rionda.to/). Prior to research, I worked for the
 Department of Computer Science as both a **teaching assistant** and **peer
-tutor** for multiple computer science courses. I was also formerly the
-**president** of Amherst's Computer Science Club.
+tutor** for multiple computer science courses. I was the **president** of the
+Amherst College Computer Science Club.
 
 Outside of academics, I have held leadership positions in Amherst's Asian
 Students Association as Co-Chair of the Asian Men's Collective and as Treasurer
@@ -25,11 +25,11 @@ hockey, tennis, rugby, cello, and guitar!
 
 ### Software Engineer Intern, Summer 2021
 
-For the summer, I interned on the Frontdoor team for Microsoft's Commerce
-Catalog group. The team owns an ASP.NET API service that scales over 150,000
-request per second and powers the Microsoft Commerce stack for Azure, Windows,
-Office, Xbox, etc. My intern project focused on enhancing the on-call experience
-for engineers by developing features on the team's service to diagnose product
+I interned on the Frontdoor team for Microsoft's Commerce Catalog group. The
+team owns an ASP.NET API service that scales over 150,000 request per second and
+powers the Microsoft Commerce stack for services such as Azure, Windows, Office,
+and Xbox. My intern project focused on enhancing the on-call experience for
+engineers by developing features on the team's service to diagnose product
 configuration issues.
 
 ## Fidelity Investments ![](assets/img/fidelity.png){: width="20%" align="right"}
