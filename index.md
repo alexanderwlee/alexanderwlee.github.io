@@ -20,7 +20,7 @@ hockey, tennis, rugby, cello, and guitar!
 
 # Work Experience
 
-## Microsoft ![](assets/img/microsoft.png){: width="20%" align="right"}
+## Microsoft ![Microsoft logo](assets/img/microsoft.png){: width="20%" align="right"}
 
 ### Software Engineer Intern, Summer 2021
 
@@ -31,7 +31,7 @@ and Xbox. My intern project focused on enhancing the on-call experience for
 engineers by developing features on the team's service to diagnose product
 configuration issues.
 
-## Fidelity Investments ![](assets/img/fidelity.png){: width="20%" align="right"}
+## Fidelity Investments ![Fidelity logo](assets/img/fidelity.png){: width="20%" align="right"}
 
 ### Software Engineer Intern, Summer 2020
 
@@ -41,7 +41,7 @@ productivity of branch agents and improved customer call experience by
 leveraging services such as Amazon Connect, Lambda, Lex, DynamoDB, and
 Elasticsearch to route customers to the appropriate contact centers.
 
-## Health Sqyre ![](assets/img/health-sqyre.png){: width="20%" align="right"}
+## Health Sqyre ![Health Sqyre logo](assets/img/health-sqyre.png){: width="20%" align="right"}
 
 ### Software Engineer Intern, Summer 2019
 
@@ -52,7 +52,7 @@ insurance payment microservice. Furthermore, I enhanced building and testing
 efficiency among engineers by developing Flask web applications for querying
 company utilized APIs.
 
-## Amherst College CS Department ![](assets/img/amherst.png){: width="20%" align="right"}
+## Amherst College CS Department ![Amherst logo](assets/img/amherst.png){: width="20%" align="right"}
 
 ### Research Assistant, Fall 2020 - Spring 2022
 
