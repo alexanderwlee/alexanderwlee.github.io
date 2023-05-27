@@ -23,12 +23,14 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if site.description %}
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% endif %}
 
         <a href="assets/pdf/Alexander_W_Lee_Resume.pdf">
           <i class="fa fa-file-text"></i> Resume
         </a>
-        <a href="mailto:alexanderwlee@protonmail.com">
+        <a href="mailto:alexanderwlee@protonme.com">
           <i class="fa fa-envelope"></i> Email
         </a>
         <a href="https://github.com/alexanderwlee/">
@@ -37,6 +39,11 @@
         <a href="https://www.linkedin.com/in/alexander-lee-a19b10179/">
           <i class="fa fa-linkedin"></i> LinkedIn
         </a>
+
+        <br><br>
+        <a href="/">Home</a> |
+        <a href="work_experience.html">Work Experience</a> |
+        <a href="publications.html">Publications</a>
       </header>
 
       <section>
