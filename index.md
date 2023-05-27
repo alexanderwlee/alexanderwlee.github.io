@@ -1,4 +1,4 @@
-<br>
+# About Me
 
 I am a **software engineer** at [Microsoft](https://www.microsoft.com/). I
 graduated **_summa cum laude_** from [Amherst College](https://www.amherst.edu/)
