@@ -1,8 +1,7 @@
 <br>
 
-I am an incoming **software engineer** at
-[Microsoft](https://www.microsoft.com/) and will be joining the company in the
-Fall of 2022. I graduated **_summa cum laude_** from [Amherst
+I am a **software engineer** at
+[Microsoft](https://www.microsoft.com/). I graduated **_summa cum laude_** from [Amherst
 College](https://www.amherst.edu/) with a Bachelor of Arts in [computer
 science](https://www.amherst.edu/academiclife/departments/computer_science) and
 [mathematics](https://www.amherst.edu/academiclife/departments/mathematics-statistics)
