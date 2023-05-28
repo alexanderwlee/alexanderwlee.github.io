@@ -5,9 +5,11 @@ start_date: 2019-06-01
 end_date: 2019-08-01
 ---
 
-I worked with a team of engineers to develop Flask microservices for the startup
-company's medical devices e-commerce platform. I primarily focused on increasing
-the accuracy of parsing patient medical insurance data for the company's
-insurance payment microservice. Furthermore, I enhanced building and testing
-efficiency among engineers by developing Flask web applications for querying
-company utilized APIs.
+{% assign links = site.data.links %}
+
+I worked with a team of engineers to develop [Flask]({{ links.flask }})
+microservices for the startup company's medical devices e-commerce platform. I
+primarily focused on increasing the accuracy of parsing patient medical
+insurance data for the company's insurance payment microservice. Furthermore, I
+enhanced building and testing efficiency among engineers by developing Flask web
+applications for querying company utilized APIs.

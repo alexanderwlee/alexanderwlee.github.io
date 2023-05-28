@@ -5,11 +5,29 @@ start_date: 2020-12-01
 end_date: 2022-05-01
 ---
 
-I conducted research as a member of the [Amherst College Data*
-Mammoths](https://acdmammoths.github.io/), led by [Matteo
-Riondato](https://matteo.rionda.to/). The research in which I was involved
-improved the scalability for balanced sampling by developing a [parallel
-algorithm for the cube
-method](https://github.com/acdmammoths/parallelcubesampling). Our work was
-accepted for publication as a [student abstract/poster to
-AAAI-22](https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/).
+{% assign links = site.data.links %}
+{% assign pubs = site.data.publications %}
+{% assign rohan = pubs | where: "id", "rohan" | first %}
+{% assign cube = pubs | where: "id", "cube" | first %}
+
+I conducted research as a member of the [Amherst College Data* Mammoths]({{
+links.acdmammoths }}) and co-authored two papers:
+
+1. [{{ rohan.title }}]({{ rohan.paper_link }}). This work introduces a novel
+   class of null models for the statistical validation of results obtained from
+   binary transactional and sequence datasets. It presents an algorithmic
+   framework for efficiently sampling datasets from these null models, which is
+   a necessary step for the resampling-based [statistical hypothesis tests]({{
+   links.hypothesis_testing }}) employed to validate the results. The algorithm
+   uses [Metropolis-Hastings]({{ links.metropolis_hastings }}) or [rejection
+   sampling]({{ links.rejection_sampling }}) to build on top of existing or
+   future sampling procedures. The paper was accepted for publication in [{{
+   rohan.publisher }}]({{ rohan.publisher_link }}), and I will be co-presenting
+   at [ECML PKDD 2023]({{ links.ecml_pkdd }}). See [GitHub repo]({{
+   rohan.repo_link }}).
+1. [{{ cube.title }}]({{ cube.paper_link }}). This work improves the scalability
+   for balanced sampling by developing a parallel algorithm for the cube method
+   using [Python]({{ links.python }}). The paper was accepted for publication to
+   the [{{ cube.publisher }}]({{ cube.publisher_link }}), and I co-presented to
+   various experts in the field at the conference. See [GitHub repo]({{
+   cube.repo_link }}).
