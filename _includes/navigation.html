@@ -2,7 +2,7 @@
   {% for item in site.data.navigation %}
     <div>
       <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
-        <li class="{{ item.iconClass }}"></li> {{ item.name }}
+        <li class="{{ item.icon_class }}"></li> {{ item.name }}
       </a>
     </div>
   {% endfor %}

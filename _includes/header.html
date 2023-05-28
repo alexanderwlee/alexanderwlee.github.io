@@ -1,0 +1,19 @@
+<header>
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+  {% include navigation.html %}
+
+  <br>
+
+  {% if site.logo %}
+    <img src="{{site.logo | relative_url}}" alt="Logo" />
+  {% endif %}
+
+  {% if site.description %}
+    <p>{{ site.description | default: site.github.project_tagline }}</p>
+  {% endif %}
+
+  <br><br>
+
+  {% include socials.html %}
+</header>

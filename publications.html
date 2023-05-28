@@ -1,0 +1,12 @@
+---
+layout: default
+title: Publications
+---
+
+{% for pub in site.data.publications %}
+  <p>
+    {{ pub.authors }}.
+    <a href="{{ pub.paper_link }}">{{ pub.paper }}</a>.
+    <a href="{{ pub.conf_link }}">{{ pub.conf }}</a>.
+  </p>
+{% endfor %}

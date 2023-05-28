@@ -1,12 +1,12 @@
 - name: Resume
   link: assets/pdf/Alexander_W_Lee_Resume.pdf
-  iconClass: fa fa-file-text
+  icon_class: fa fa-file-text
 - name: Email
   link: mailto:alexanderwlee@proton.me
-  iconClass: fa fa-envelope
+  icon_class: fa fa-envelope
 - name: GitHub
   link: https://github.com/alexanderwlee/
-  iconClass: fa fa-github
+  icon_class: fa fa-github
 - name: LinkedIn
   link: https://www.linkedin.com/in/alexander-lee-a19b10179/
-  iconClass: fa fa-linkedin
+  icon_class: fa fa-linkedin

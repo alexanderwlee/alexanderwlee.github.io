@@ -1,0 +1,18 @@
+---
+layout: default
+title: Work Experience
+---
+
+{% for org in site.data.organizations %}
+  <h2>
+    {{ org.name }}
+    <img src="{{ org.logo_link }}" alt="{{ org.logo_alt }}" width="20%" align="right">
+  </h2>
+
+  {% for role in site.roles %}
+    {% if role.org_id == org.id %}
+      <h3>{{ role.title }}, {{ role.period }}</h3>
+      <p>{{ role.content }}</p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

@@ -1,9 +1,9 @@
 - name: About Me
   link: /
-  iconClass: fa fa-user-circle
+  icon_class: fa fa-user-circle
 - name: Work Experience
   link: /work_experience.html
-  iconClass: fa fa-briefcase
+  icon_class: fa fa-briefcase
 - name: Publications
   link: /publications.html
-  iconClass: fa fa-book
+  icon_class: fa fa-book
