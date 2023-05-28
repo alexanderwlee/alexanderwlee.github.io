@@ -9,10 +9,10 @@ title: Work Experience
     <img src="{{ org.logo_link }}" alt="{{ org.logo_alt }}" width="20%" align="right">
   </h2>
 
-  {% for role in site.roles %}
-    {% if role.org_id == org.id %}
-      <h3>{{ role.title }}, {{ role.period }}</h3>
-      <p>{{ role.content }}</p>
-    {% endif %}
+  {% assign org_roles = site.roles | where: "org_id", org.id %}
+
+  {% for role in org_roles %}
+    <h3>{{ role.title }}, {{ role.period }}</h3>
+    <p>{{ role.content }}</p>
   {% endfor %}
 {% endfor %}
