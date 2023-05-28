@@ -2,6 +2,10 @@
   name: Microsoft
   logo_link: assets/img/microsoft.png
   logo_alt: Microsoft logo
+- id: amherst_cs
+  name: Amherst College Computer Science Department
+  logo_link: assets/img/amherst.png
+  logo_alt: Amherst logo
 - id: fidelity
   name: Fidelity Investments
   logo_link: assets/img/fidelity.png
@@ -10,7 +14,3 @@
   name: Health Sqyre
   logo_link: assets/img/health-sqyre.png
   logo_alt: Health Sqyre logo
-- id: amherst_cs
-  name: Amherst College Computer Science Department
-  logo_link: assets/img/amherst.png
-  logo_alt: Amherst logo

@@ -1,7 +1,8 @@
 ---
 org_id: amherst_cs
 title: Teaching Assistant and Peer Tutor
-period: Spring 2019 - Fall 2020
+start_date: 2019-03-01
+end_date: 2020-12-01
 ---
 
 I helped students deepen their understanding of data structures and

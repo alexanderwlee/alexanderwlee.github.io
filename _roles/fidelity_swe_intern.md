@@ -1,7 +1,8 @@
 ---
 org_id: fidelity
 title: Software Engineer Intern
-period: Summer 2020
+start_date: 2020-06-01
+end_date: 2020-08-01
 ---
 
 I interned with the Contact Center Cloud Solutions team and implemented software

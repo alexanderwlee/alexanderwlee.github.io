@@ -1,7 +1,8 @@
 ---
 org_id: amherst_cs
 title: Research Assistant
-period: Fall 2020 - Spring 2022
+start_date: 2020-12-01
+end_date: 2022-05-01
 ---
 
 I conducted research as a member of the [Amherst College Data*

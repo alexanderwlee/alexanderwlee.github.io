@@ -9,10 +9,20 @@ title: Work Experience
     <img src="{{ org.logo_link }}" alt="{{ org.logo_alt }}" width="20%" align="right">
   </h2>
 
-  {% assign org_roles = site.roles | where: "org_id", org.id %}
+  {% assign roles = site.roles | where: "org_id", org.id | sort: "end_date" | reverse %}
+  {% assign date_format = "%b %Y" %}
+  {% assign max_date = "9999-12-31" %}
 
-  {% for role in org_roles %}
-    <h3>{{ role.title }}, {{ role.period }}</h3>
+  {% for role in roles %}
+    <h3>
+      {{ role.title }},
+      {{ role.start_date | date: date_format }} -
+      {% if max_date contains role.end_date %}
+        Present
+      {% else %}
+        {{ role.end_date | date: date_format }}
+      {% endif %}
+    </h3>
     <p>{{ role.content }}</p>
   {% endfor %}
 {% endfor %}

@@ -1,7 +1,8 @@
 ---
 org_id: health_sqyre
 title: Software Engineer Intern
-period: Summer 2019
+start_date: 2019-06-01
+end_date: 2019-08-01
 ---
 
 I worked with a team of engineers to develop Flask microservices for the startup
