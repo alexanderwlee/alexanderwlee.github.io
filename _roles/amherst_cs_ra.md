@@ -22,9 +22,9 @@ links.acdmammoths }}) and co-authored two papers:
    accepted for publication in [{{ rohan.publisher }}]({{ rohan.publisher_link
    }}), and I will be co-presenting at [ECML PKDD 2023]({{ links.ecml_pkdd }}).
    See [GitHub repo]({{ rohan.repo_link }}).
-1. [{{ cube.title }}]({{ cube.paper_link }}). This work improves the scalability
-   for balanced sampling by developing a parallel algorithm for the cube method
-   using [Python]({{ links.python }}). The paper was accepted for publication to
-   the [{{ cube.publisher }}]({{ cube.publisher_link }}), and I co-presented to
-   various experts in the field at the conference. See [GitHub repo]({{
-   cube.repo_link }}).
+1. [{{ cube.title }}]({{ cube.paper_link }}). This work presents a novel
+   parallel algorithm for drawing balanced samples from large populations based
+   on a variant of the [cube method for stratified populations]({{
+   links.strat_cube_method }}). The paper was accepted for publication to the
+   [{{ cube.publisher }}]({{ cube.publisher_link }}), and I co-presented to
+   various experts in the field. See [GitHub repo]({{ cube.repo_link }}).
