@@ -11,7 +11,7 @@ end_date: 2022-05-01
 {% assign cube = pubs | where: "id", "cube" | first %}
 
 I conducted research as a member of the [Amherst College Data* Mammoths]({{
-links.acdmammoths }}) and co-authored two papers:
+links.acdmammoths }}) and co-authored the following papers:
 
 1. [{{ rohan.title }}]({{ rohan.paper_link }}). This work introduces a novel
    class of null models for the statistical validation of results obtained from
