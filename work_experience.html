@@ -17,6 +17,7 @@ title: Work Experience
     <h3>
       {{ role.title }},
       {{ role.start_date | date: date_format }} -
+      {% comment %} Not sure why the below only works with contains... {% endcomment %}
       {% if max_date contains role.end_date %}
         Present
       {% else %}
