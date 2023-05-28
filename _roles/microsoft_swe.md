@@ -9,5 +9,5 @@ I work on Microsoft's Cloud + AI Commerce Catalog Frontdoor team. Responsible
 for 90% of Microsoft's revenue, our services are core to Microsoft's commerce
 stack, powering storefronts such as Azure, Microsoft 365, Xbox, and Windows. We
 enable product browse, discovery, purchase, and post-purchase scenarios. Scaling
-over 200K requests per second, we serve over 200 partners and run on the largest
-Kubernetes clusters with more than 1500 VMs across multiple regions and clouds.
+over 200K RPS, we serve more than 200 partners and run on the largest Kubernetes
+clusters with over 1500 virtual machines across multiple regions and clouds.
