@@ -18,13 +18,10 @@ links.acdmammoths }}) and co-authored two papers:
    binary transactional and sequence datasets. It presents an algorithmic
    framework for efficiently sampling datasets from these null models, which is
    a necessary step for the resampling-based [statistical hypothesis tests]({{
-   links.hypothesis_testing }}) employed to validate the results. The algorithm
-   uses [Metropolis-Hastings]({{ links.metropolis_hastings }}) or [rejection
-   sampling]({{ links.rejection_sampling }}) to build on top of existing or
-   future sampling procedures. The paper was accepted for publication in [{{
-   rohan.publisher }}]({{ rohan.publisher_link }}), and I will be co-presenting
-   at [ECML PKDD 2023]({{ links.ecml_pkdd }}). See [GitHub repo]({{
-   rohan.repo_link }}).
+   links.hypothesis_testing }}) employed to validate the results. The paper was
+   accepted for publication in [{{ rohan.publisher }}]({{ rohan.publisher_link
+   }}), and I will be co-presenting at [ECML PKDD 2023]({{ links.ecml_pkdd }}).
+   See [GitHub repo]({{ rohan.repo_link }}).
 1. [{{ cube.title }}]({{ cube.paper_link }}). This work improves the scalability
    for balanced sampling by developing a parallel algorithm for the cube method
    using [Python]({{ links.python }}). The paper was accepted for publication to
