@@ -6,8 +6,17 @@ title: Publications
 {% for pub in site.data.publications %}
   <p>
     {{ pub.authors }}.
+
     <a href="{{ pub.paper_link }}">{{ pub.title }}</a>.
+
     <a href="{{ pub.publisher_link }}">{{ pub.publisher }}</a>.
-    <a href="{{ pub.repo_link }}">GitHub repo</a>.
+
+    {% if pub.repo_link %}
+      <a href="{{ pub.repo_link }}">GitHub repo</a>.
+    {% endif %}
+
+    {% if pub.award %}
+      <b>{{ pub.award }}</b>.
+    {% endif %}
   </p>
 {% endfor %}

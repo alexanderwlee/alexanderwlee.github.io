@@ -9,16 +9,11 @@ aws_elasticsearch: https://aws.amazon.com/opensearch-service
 aws_lambda: https://aws.amazon.com/lambda
 aws_lex: https://aws.amazon.com/lex
 azure: https://azure.microsoft.com
-cube_repo: https://github.com/acdmammoths/parallelcubesampling
-ecml_pkdd: https://2023.ecmlpkdd.org
 fidelity: https://fidelity.com
 flask: https://flask.palletsprojects.com
-hypothesis_testing: https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
-java: https://java.com
 m365: https://office.com
 matteo: https://matteo.rionda.to
 microsoft: https://microsoft.com
 python: https://www.python.org
-strat_cube_method: https://www.researchgate.net/publication/288704033_Stratified_balanced_sampling
 windows: https://microsoft.com/windows
 xbox: https://xbox.com
