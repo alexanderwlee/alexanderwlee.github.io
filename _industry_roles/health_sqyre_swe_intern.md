@@ -1,8 +1,8 @@
 ---
 company_id: health_sqyre
 title: Software Engineer Intern
-start_date: 2019-06-01
-end_date: 2019-08-01
+time: Summer 2019
+order: 1
 ---
 
 {% assign links = site.data.links %}

@@ -1,8 +1,8 @@
 ---
 company_id: fidelity
 title: Software Engineer Intern
-start_date: 2020-06-01
-end_date: 2020-08-01
+time: Summer 2020
+order: 0
 ---
 
 {% assign links = site.data.links %}

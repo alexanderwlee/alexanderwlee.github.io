@@ -1,8 +1,8 @@
 ---
 company_id: microsoft
 title: Software Engineer
-start_date: 2022-08-01
-end_date: 9999-12-31
+time: August 2022 - Present
+order: 0
 ---
 
 {% assign links = site.data.links %}

@@ -9,20 +9,12 @@ title: Industry Experience
     <img src="{{ company.logo_link }}" alt="{{ company.logo_alt }}" width="20%" align="right">
   </h2>
 
-  {% assign roles = site.industry_roles | where: "company_id", company.id | sort: "end_date" | reverse %}
-  {% assign date_format = "%b %Y" %}
-  {% assign max_date = "9999-12-31" %}
+  {% assign roles = site.industry_roles | where: "company_id", company.id | sort: "order" %}
 
   {% for role in roles %}
     <h3>
-      {{ role.title }},
-      {{ role.start_date | date: date_format }} -
-      {% comment %} Not sure why the below only works with contains... {% endcomment %}
-      {% if max_date contains role.end_date %}
-        Present
-      {% else %}
-        {{ role.end_date | date: date_format }}
-      {% endif %}
+      {{ role.title }}
+      ({{ role.time }})
     </h3>
     <p>{{ role.content }}</p>
   {% endfor %}
