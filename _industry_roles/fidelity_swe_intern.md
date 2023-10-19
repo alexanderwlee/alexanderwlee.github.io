@@ -1,5 +1,5 @@
 ---
-org_id: fidelity
+company_id: fidelity
 title: Software Engineer Intern
 start_date: 2020-06-01
 end_date: 2020-08-01

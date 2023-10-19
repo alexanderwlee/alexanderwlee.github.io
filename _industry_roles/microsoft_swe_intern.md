@@ -1,5 +1,5 @@
 ---
-org_id: microsoft
+company_id: microsoft
 title: Software Engineer Intern
 start_date: 2021-06-01
 end_date: 2021-08-01

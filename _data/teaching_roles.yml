@@ -1,0 +1,20 @@
+- school_id: francis-marion
+  course: AP Computer Science Principals
+  position_id: ta
+  date: August 2023 -- Present
+- school_id: amherst
+  course: "COSC 111: Introduction to Computer Science I"
+  position_id: ta
+  date: Fall 2020
+- school_id: amherst
+  course: "COSC 112: Introduction to Computer Science II"
+  position_id: ta
+  date: Fall 2019
+- school_id: amherst
+  course: "COSC 211: Data Structures"
+  position_id: tutor
+  date: Spring 2020
+- school_id: amherst
+  course: "COSC 111: Introduction to Computer Science I"
+  position_id: tutor
+  date: Spring 2019

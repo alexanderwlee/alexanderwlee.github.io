@@ -1,0 +1,8 @@
+- id: francis-marion
+  name: Francis Marion School (MSFT TEALS)
+  logo_link: assets/img/microsoft.png
+  logo_alt: Microsoft logo
+- id: amherst
+  name: Amherst College
+  logo_link: assets/img/amherst.png
+  logo_alt: Amherst logo

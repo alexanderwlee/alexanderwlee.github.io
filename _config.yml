@@ -4,5 +4,5 @@ plugins:
 title: Alexander W. Lee
 logo: /assets/img/headshot.jpg
 collections:
-  roles:
+  industry_roles:
     output: true

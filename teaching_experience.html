@@ -1,0 +1,40 @@
+---
+layout: default
+title: Teaching Experience
+---
+
+{% for school in site.data.schools %}
+  <h2>
+    {{ school.name }}
+    <img src="{{ school.logo_link }}" alt="{{ school.logo_alt }}" width="20%" align="right">
+  </h2>
+
+  {% assign roles = site.data.teaching_roles | where: "school_id", school.id %}
+
+  {% assign ta_roles = roles | where: "position_id", "ta" %}
+
+  {% if ta_roles.size > 0 %}
+    <h3>Teaching Assistant</h3>
+
+    {% for role in ta_roles %}
+      {{ role.course }}
+      ({{ role.date }})
+      <br>
+    {% endfor %}
+  {% endif %}
+
+  <br>
+
+  {% assign tutor_roles = roles | where: "position_id", "tutor" %}
+
+  {% if tutor_roles.size > 0 %}
+    <h3>Peer Tutor</h3>
+
+    {% for role in tutor_roles %}
+      {{ role.course }}
+      ({{ role.date }})
+      <br>
+    {% endfor %}
+  {% endif %}
+
+{% endfor %}
