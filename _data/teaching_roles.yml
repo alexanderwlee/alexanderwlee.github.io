@@ -1,20 +1,20 @@
 - school_id: francis-marion
   course: AP Computer Science Principals
-  position_id: ta
+  type: Teaching Assistant
   time: August 2023 - Present
 - school_id: amherst
   course: "COSC 111: Introduction to Computer Science I"
-  position_id: ta
+  type: Teaching Assistant
   time: Fall 2020
 - school_id: amherst
   course: "COSC 112: Introduction to Computer Science II"
-  position_id: ta
+  type: Teaching Assistant
   time: Fall 2019
 - school_id: amherst
   course: "COSC 211: Data Structures"
-  position_id: tutor
+  type: Peer Tutor
   time: Spring 2020
 - school_id: amherst
   course: "COSC 111: Introduction to Computer Science I"
-  position_id: tutor
+  type: Peer Tutor
   time: Spring 2019

@@ -3,6 +3,8 @@ layout: default
 title: Teaching Experience
 ---
 
+{% assign types = "Teaching Assistant, Peer Tutor" | split: ", " %}
+
 {% for school in site.data.schools %}
   <h2>
     {{ school.name }}
@@ -11,30 +13,19 @@ title: Teaching Experience
 
   {% assign roles = site.data.teaching_roles | where: "school_id", school.id %}
 
-  {% assign ta_roles = roles | where: "position_id", "ta" %}
+  {% for type in types %}
+    {% assign roles_by_type = roles | where: "type", type %}
 
-  {% if ta_roles.size > 0 %}
-    <h3>Teaching Assistant</h3>
+    {% if roles_by_type.size > 0 %}
+      <h3>{{ type }}</h3>
 
-    {% for role in ta_roles %}
-      {{ role.course }}
-      ({{ role.time }})
+      {% for role in roles_by_type %}
+        {{ role.course }}
+        ({{ role.time }})
+        <br>
+      {% endfor %}
+
       <br>
-    {% endfor %}
-  {% endif %}
-
-  <br>
-
-  {% assign tutor_roles = roles | where: "position_id", "tutor" %}
-
-  {% if tutor_roles.size > 0 %}
-    <h3>Peer Tutor</h3>
-
-    {% for role in tutor_roles %}
-      {{ role.course }}
-      ({{ role.time }})
-      <br>
-    {% endfor %}
-  {% endif %}
-
+    {% endif %}
+  {% endfor %}
 {% endfor %}
