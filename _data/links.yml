@@ -9,6 +9,7 @@ aws_elasticsearch: https://aws.amazon.com/opensearch-service
 aws_lambda: https://aws.amazon.com/lambda
 aws_lex: https://aws.amazon.com/lex
 azure: https://azure.microsoft.com
+azure_private_offers: https://learn.microsoft.com/en-us/marketplace/private-offers-in-azure-marketplace
 cs_prize: https://www.aws.amherst.edu/academiclife/registrar/for-staff/prize-information/departmental-and-major-prizes-
 ecml_pkdd: https://2023.ecmlpkdd.org/program/paper-session-overview/program-20-september-2023/
 fidelity: https://fidelity.com
