@@ -12,3 +12,5 @@ worked as an **undergraduate researcher** in the [Amherst College Data*
 Mammoths]({{ links.acdmammoths }}) research and learning group led by [Matteo
 Riondato]({{ links.matteo }}). My research interest is in knowledge discovery,
 data mining, machine learning, and databases.
+
+{% include news.html %}

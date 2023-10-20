@@ -1,0 +1,10 @@
+---
+layout: default
+title: News Archive
+---
+
+{% assign news_by_date = site.news | sort: "date" | reverse | slice: site.news_count %}
+
+{% for event in news_by_date %}
+  {{ event.content }}
+{% endfor %}

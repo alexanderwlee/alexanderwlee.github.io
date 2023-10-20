@@ -1,0 +1,9 @@
+<h1>News</h1>
+
+{% assign news_by_date = site.news | sort: "date" | reverse | slice: 0, site.news_count %}
+
+{% for event in news_by_date %}
+  {{ event.content }}
+{% endfor %}
+
+<a href="/news_archive.html">News Archive</a>

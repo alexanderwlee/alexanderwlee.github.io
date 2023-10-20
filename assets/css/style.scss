@@ -6,6 +6,10 @@ a:hover, a:focus {
   font-weight: normal; // overriding default bold
 }
 
+b {
+  color: black; // overriding bold to black to be consistent with md
+}
+
 h1 a:hover {
   font-weight: bold; // keep default bold for header
 }
