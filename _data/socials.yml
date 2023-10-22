@@ -10,3 +10,6 @@
 - name: LinkedIn
   link: https://www.linkedin.com/in/alexander-lee-a19b10179/
   icon_class: fa fa-linkedin
+- name : Google Scholar
+  link: https://scholar.google.com/citations?user=3r6_204AAAAJ&hl=en
+  icon_class: fa fa-graduation-cap
