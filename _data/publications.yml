@@ -12,10 +12,3 @@
   publisher: AAAI 2022 Student Abstract and Poster Program
   publisher_link: https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/
   repo_link: https://github.com/acdmammoths/parallelcubesampling
-- id: thesis
-  authors: Alexander Lee
-  title: "DiFfuSR: Distortion-free Swap-randomization for Statistically-testing Data Mining Results"
-  paper_link: assets/pdf/Lee-DiFfuSR-Thesis.pdf
-  publisher: Amherst College Honors Thesis
-  publisher_link: https://www.aws.amherst.edu/academiclife/departments/computer_science/recent
-  award: The Computer Science Prize

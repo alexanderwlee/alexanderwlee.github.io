@@ -6,5 +6,5 @@ order: 1
 ---
 
 As an intern on the Frontdoor team, I focused on enhancing the on-call
-experience for engineers by developing features on the team's service to
-efficiently diagnose product configuration issues.
+experience for engineers by developing tools to diagnose product configuration
+issues efficiently.

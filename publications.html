@@ -11,12 +11,6 @@ title: Publications
 
     <a href="{{ pub.publisher_link }}">{{ pub.publisher }}</a>.
 
-    {% if pub.repo_link %}
-      <a href="{{ pub.repo_link }}">GitHub repo</a>.
-    {% endif %}
-
-    {% if pub.award %}
-      <b>{{ pub.award }}</b>.
-    {% endif %}
+    <a href="{{ pub.repo_link }}">GitHub repo</a>.
   </p>
 {% endfor %}
