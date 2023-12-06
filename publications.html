@@ -3,14 +3,18 @@ layout: default
 title: Publications
 ---
 
-{% for pub in site.data.publications %}
-  <p>
+<ol>
+  {% for pub in site.data.publications %}
+  <li>
     {{ pub.authors }}.
-
-    <a href="{{ pub.paper_link }}">{{ pub.title }}</a>.
-
-    <a href="{{ pub.publisher_link }}">{{ pub.publisher }}</a>.
-
-    <a href="{{ pub.repo_link }}">GitHub repo</a>.
-  </p>
-{% endfor %}
+    {{ pub.title }}.
+    {{ pub.publisher }}.<br>
+    <a href="{{ pub.paper_link }}">
+      <i class="fa fa-file-text"></i> Paper
+    </a>
+    &thinsp;
+    <a href="{{ pub.repo_link }}">
+      <i class="fa fa-github"></i> Code
+    </a>
+  {% endfor %}
+</ol>
