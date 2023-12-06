@@ -13,6 +13,14 @@ title: Publications
       <i class="fa fa-file-text"></i> Paper
     </a>
     &thinsp;
+
+    {% if pub.supp_link %}
+    <a href="{{ pub.supp_link }}">
+      <i class="fa fa-file-text"></i> Supplement
+    </a>
+    &thinsp;
+    {% endif %}
+
     <a href="{{ pub.repo_link }}">
       <i class="fa fa-github"></i> Code
     </a>

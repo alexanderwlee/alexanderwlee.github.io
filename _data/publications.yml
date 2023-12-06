@@ -9,6 +9,7 @@
   authors: Alexander Lee, Stefan Walzer-Goldfeld, Shukry Zablah, and Matteo Riondato
   title: A Scalable Parallel Algorithm for Balanced Sampling (Student Abstract)
   paper_link: assets/pdf/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI22.pdf
+  supp_link: assets/pdf/LeeEtAl-AScalableParallelAlgorithmForBalancedSamplingSupplement-AAAI22.pdf
   publisher: AAAI 2022 Student Abstract and Poster Program
   publisher_link: https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/
   repo_link: https://github.com/acdmammoths/parallelcubesampling
