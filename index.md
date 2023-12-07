@@ -12,4 +12,6 @@ was an **undergraduate researcher** in the [Data* Mammoths]({{ links.acdmammoths
 }}) research and learning group led by [Matteo Riondato]({{ links.matteo }}). My
 research interests are in databases, data mining, and machine learning.
 
+As for hobbies, I enjoy tennis, ice hockey, guitar, and reading.
+
 {% include news.html %}
