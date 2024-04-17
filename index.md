@@ -19,6 +19,6 @@ Riondato]({{ links.matteo }}).
 Since graduating from Amherst, I have had a lovely experience working as a
 **software engineer** at [Microsoft]({{ links.microsoft }}) in Redmond, WA.
 
-As for hobbies, I enjoy playing tennis, ice hockey, guitar, and cello.
+As for hobbies, I enjoy playing tennis, ice hockey, guitar, and cello!
 
 {% include news.html %}
