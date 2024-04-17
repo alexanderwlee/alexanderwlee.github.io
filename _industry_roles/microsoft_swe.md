@@ -15,10 +15,3 @@ and [Windows]({{ links.windows }}). Scaling to over 200K requests per second and
 serving more than 200 downstream services, our services are the back-end that
 enables product browse, discovery, pricing, purchase, and post-purchase
 scenarios.
-
-My most notable project is a feature that helps Azure Marketplace’s independent
-service vendors (e.g., Red Hat, Citrix, Couchbase) and Azure customers transact
-on [private offers]({{ links.azure_private_offers }}) with time-bound pricing
-and customized terms. Each of these private offers is worth millions of dollars.
-My responsibilities for the project ranged from working with multiple teams on
-the design to coding and helping downstream services with API integration.
