@@ -16,8 +16,8 @@ data mining algorithms as an **undergraduate researcher** in the [Data*
 Mammoths]({{ links.acdmammoths }}) research and learning group led by [Matteo
 Riondato]({{ links.matteo }}).
 
-I am also a **software engineer** at [Microsoft]({{ links.microsoft }}) on the
-Commerce Catalog team in Cloud + AI.
+Since graduating from Amherst, I have had a lovely experience working as a
+**software engineer** at [Microsoft]({{ links.microsoft }}) in Redmond, WA.
 
 As for hobbies, I enjoy playing tennis, ice hockey, guitar, and cello.
 
