@@ -11,7 +11,7 @@ My research interests are in databases and machine learning.
 
 I graduated from [Amherst College]({{ links.amherst }}) with a Bachelor of Arts
 in [computer science]({{ links.amherst_cs }}) and [mathematics]({{
-links.amherst_math }}). At Amherst, I studied scalable and statistically-sound
+links.amherst_math }}). At Amherst, I explored scalable and statistically-sound
 data mining algorithms as an **undergraduate researcher** in the [Data*
 Mammoths]({{ links.acdmammoths }}) research and learning group led by [Matteo
 Riondato]({{ links.matteo }}).
