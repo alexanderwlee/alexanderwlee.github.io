@@ -1,7 +1,7 @@
 ---
 company_id: microsoft
 title: Software Engineer
-time: August 2022 - May 2024
+time: 2022 - 2024
 order: 0
 ---
 
