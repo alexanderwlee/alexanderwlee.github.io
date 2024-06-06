@@ -1,17 +1,15 @@
 ---
 company_id: microsoft
 title: Software Engineer
-time: August 2022 - Present
+time: August 2022 - May 2024
 order: 0
 ---
 
 {% assign links = site.data.links %}
 
-I work on [Microsoft]({{ links.microsoft }})'s Cloud + AI Commerce Catalog
-Frontdoor team. Responsible for 90% of Microsoft's revenue, our services are
-core to the company's commerce stack, powering storefronts such as [Azure]({{
-links.azure }}), [Microsoft 365]({{ links.m365 }}), [Xbox]({{ links.xbox }}),
-and [Windows]({{ links.windows }}). Scaling to over 200K requests per second and
-serving more than 200 downstream services, our services are the back-end that
-enables product browse, discovery, pricing, purchase, and post-purchase
-scenarios.
+I worked on [Microsoft]({{ links.microsoft }})'s Cloud + AI Commerce Catalog
+Frontdoor team. Sitting at the foundation of Microsoft's commerce stack, our
+services ingest and serve all the company's product data, enabling critical
+functionalities (e.g., browse, purchase, renew) for major storefronts (e.g.,
+[Azure]({{ links.azure }}), [Xbox]({{ links.xbox }}), [Office]({{ links.office}} )). Catalog handles 90% of the company's revenue, scales to
+over 200K requests per second, and supports over 200 downstream services.
