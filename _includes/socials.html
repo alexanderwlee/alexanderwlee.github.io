@@ -1,6 +1,6 @@
 <nav>
   {% for item in site.data.socials %}
-    <a href="{{ item.link }}">
+    <a rel="me" href="{{ item.link }}">
       <i class="{{ item.icon_class }}"></i> {{ item.name }}
     </a> &nbsp;
   {% endfor %}
