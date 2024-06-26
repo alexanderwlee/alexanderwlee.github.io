@@ -1,12 +1,15 @@
 - name: CV
   link: assets/pdf/Alexander_W_Lee_CV.pdf
-  icon_class: fa fa-file-text
+  icon_class: fa-solid fa-file-text
 - name : Scholar
   link: https://scholar.google.com/citations?user=3r6_204AAAAJ&hl=en
-  icon_class: fa fa-graduation-cap
+  icon_class: fa-solid fa-graduation-cap
 - name: GitHub
   link: https://github.com/alexanderwlee/
-  icon_class: fa fa-github
+  icon_class: fa-brands fa-github
 - name: Email
   link: mailto:alexanderwlee@proton.me
-  icon_class: fa fa-envelope
+  icon_class: fa-solid fa-envelope
+- name: Mastodon
+  link: https://discuss.systems/@alexanderwlee
+  icon_class: fa-brands fa-mastodon

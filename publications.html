@@ -10,19 +10,19 @@ title: Publications
     {{ pub.publisher }}<br>
     {{ pub.authors }}<br>
     <a href="{{ pub.paper_link }}">
-      <i class="fa fa-file-text"></i> Paper
+      <i class="fa-solid fa-file-text"></i> Paper
     </a>
-    &thinsp;
+    &nbsp;
 
     {% if pub.supp_link %}
     <a href="{{ pub.supp_link }}">
-      <i class="fa fa-file-text"></i> Supplement
+      <i class="fa-solid fa-file-text"></i> Supplement
     </a>
-    &thinsp;
+    &nbsp;
     {% endif %}
 
     <a href="{{ pub.repo_link }}">
-      <i class="fa fa-github"></i> Code
+      <i class="fa-brands fa-github"></i> Code
     </a>
   {% endfor %}
 </ol>
