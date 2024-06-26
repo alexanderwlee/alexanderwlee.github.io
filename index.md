@@ -7,7 +7,7 @@ title: About Me
 I am an incoming **computer science PhD student** at [Brown University]({{
 links.brown }}), where I will be advised by [Ugur Cetintemel]({{ links.ugur }})
 and supported in part by an [NSF Graduate Research Fellowship]({{ links.nsf }}).
-My research interests are in database systems and machine learning.
+My research interests are in databases and machine learning systems.
 
 I graduated from [Amherst College]({{ links.amherst }}) with a Bachelor of Arts
 in [computer science]({{ links.amherst_cs }}) and [mathematics]({{
