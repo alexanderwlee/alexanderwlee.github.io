@@ -1,7 +1,3 @@
----
-title: About Me
----
-
 {% assign links = site.data.links %}
 
 I am an incoming **computer science PhD student** at [Brown University]({{

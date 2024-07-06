@@ -5,7 +5,5 @@ title: Alexander W. Lee
 logo: /assets/img/headshot.jpg
 news_count: 3
 collections:
-  industry_roles:
-    output: true
   news:
     output: true

@@ -1,12 +1,9 @@
-- name: About Me
+- name: Home
   link: /
-  icon_class: fa-solid fa-user-circle
+  icon_class: fa-solid fa-house
 - name: Publications
   link: /publications.html
   icon_class: fa-solid fa-database
-- name: Industry Experience
-  link: /industry_experience.html
-  icon_class: fa-solid fa-briefcase
-- name: Teaching Experience
-  link: /teaching_experience.html
+- name: Teaching
+  link: /teaching.html
   icon_class: fa-solid fa-book
