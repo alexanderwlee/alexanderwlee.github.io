@@ -7,3 +7,6 @@
 - name: Teaching
   link: /teaching.html
   icon_class: fa-solid fa-book
+- name: Curriculum Vitae
+  link: assets/pdf/alexanderwlee-cv.pdf
+  icon_class: fa-solid fa-file-lines
