@@ -1,12 +1,12 @@
 - name: Home
   link: /
   icon_class: fa-solid fa-house
+- name: Curriculum Vitae
+  link: assets/pdf/alexanderwlee-cv.pdf
+  icon_class: fa-solid fa-file-lines
 - name: Publications
   link: /publications.html
   icon_class: fa-solid fa-database
 - name: Teaching
   link: /teaching.html
   icon_class: fa-solid fa-book
-- name: Curriculum Vitae
-  link: assets/pdf/alexanderwlee-cv.pdf
-  icon_class: fa-solid fa-file-lines

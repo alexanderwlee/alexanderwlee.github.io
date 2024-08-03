@@ -1,0 +1,9 @@
+<b>Contact Info:</b>
+<nav>
+  {% for item in site.data.contacts %}
+  <a rel="me" href="{{ item.link }}">
+    <i class="{{ item.icon_class }}"></i> {{ item.name }}
+  </a>
+  <br>
+  {% endfor %}
+</nav>

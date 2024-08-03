@@ -3,6 +3,15 @@ layout: default
 title: Publications
 ---
 
+{% for prof in site.data.research_profiles %}
+  <a href="{{ prof.link }}">
+    <i class="{{ prof.icon_class }}"></i> {{ prof.name }}
+  </a>
+  &nbsp;
+{% endfor %}
+
+<br><br>
+
 <ol>
   {% for pub in site.data.publications %}
   <li>
