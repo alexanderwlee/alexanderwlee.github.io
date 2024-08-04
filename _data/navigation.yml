@@ -3,7 +3,7 @@
   icon_class: fa-solid fa-house
 - name: Curriculum Vitae
   link: assets/pdf/alexanderwlee-cv.pdf
-  icon_class: fa-solid fa-file-lines
+  icon_class: fa-solid fa-file-pdf
 - name: Publications
   link: /publications.html
   icon_class: fa-solid fa-database
