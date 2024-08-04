@@ -1,15 +1,15 @@
 - id: rohan
-  authors: Maryam Abuissa, Alexander Lee, and Matteo Riondato
+  authors: Maryam Abuissa, <u>Alexander Lee</u>, and Matteo Riondato
   title: "ROhAN: Row-order Agnostic Null Models for Statistically-sound Knowledge Discovery"
   paper_link: assets/pdf/AbuissaEtAl-ROhAN-DMKD23.pdf
   publisher: Data Mining and Knowledge Discovery (S.I. for ECML PKDD 2023)
   publisher_link: https://link.springer.com/journal/10618/topicalCollection/AC_405d0ca97322bed6d7bb7cf14504b211/page/1
-  repo_link: https://github.com/acdmammoths/ROhAN-code
+  code_link: https://github.com/acdmammoths/ROhAN-code
 - id: cube
-  authors: Alexander Lee, Stefan Walzer-Goldfeld, Shukry Zablah, and Matteo Riondato
+  authors: <u>Alexander Lee</u>, Stefan Walzer-Goldfeld, Shukry Zablah, and Matteo Riondato
   title: A Scalable Parallel Algorithm for Balanced Sampling (Student Abstract)
   paper_link: assets/pdf/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI22.pdf
   supp_link: assets/pdf/LeeEtAl-AScalableParallelAlgorithmForBalancedSamplingSupplement-AAAI22.pdf
   publisher: AAAI 2022 Student Abstract and Poster Program
   publisher_link: https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/
-  repo_link: https://github.com/acdmammoths/parallelcubesampling
+  code_link: https://github.com/acdmammoths/parallelcubesampling
