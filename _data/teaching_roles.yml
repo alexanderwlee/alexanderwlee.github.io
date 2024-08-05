@@ -1,20 +1,25 @@
 - school_id: francis-marion
   course: AP Computer Science Principles
+  course_link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
   type: Teaching Assistant
   time: 2023 - 2024
 - school_id: amherst
   course: "COSC 111: Introduction to Computer Science I"
+  course_link: https://www.amherst.edu/academiclife/departments/courses/2021F/COSC/COSC-111-2021F
   type: Teaching Assistant
   time: Fall 2020
 - school_id: amherst
   course: "COSC 112: Introduction to Computer Science II"
+  course_link: https://www.amherst.edu/academiclife/departments/courses/1920F/COSC/COSC-112-1920F
   type: Teaching Assistant
   time: Fall 2019
 - school_id: amherst
   course: "COSC 211: Data Structures"
+  course_link: https://www.amherst.edu/academiclife/departments/courses/1920S/COSC/COSC-211-1920S
   type: Peer Tutor
   time: Spring 2020
 - school_id: amherst
   course: "COSC 111: Introduction to Computer Science I"
+  course_link: https://www.amherst.edu/academiclife/departments/courses/1819S/COSC/COSC-111-1819S
   type: Peer Tutor
   time: Spring 2019

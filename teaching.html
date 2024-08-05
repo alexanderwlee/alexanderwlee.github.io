@@ -20,8 +20,10 @@ title: Teaching
       <h3>{{ type }}</h3>
 
       {% for role in roles_by_type %}
-        {{ role.course }}
-        ({{ role.time }})
+        <a href="{{ role.course_link }}">
+          {{ role.course }}
+          ({{ role.time }})
+        </a>
         <br>
       {% endfor %}
 
