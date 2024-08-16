@@ -5,8 +5,8 @@
   link: assets/pdf/alexanderwlee-cv.pdf
   icon_class: fa-solid fa-file-pdf
 - name: Publications
-  link: /publications.html
+  link: /publications
   icon_class: fa-solid fa-database
 - name: Teaching
-  link: /teaching.html
+  link: /teaching
   icon_class: fa-solid fa-book
