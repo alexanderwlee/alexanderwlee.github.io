@@ -1,9 +1,9 @@
 {% assign links = site.data.links %}
 
-I am a **computer science PhD student** at [Brown University]({{ links.brown
-}}), advised by [Uğur Çetintemel]({{ links.ugur }}) and supported in part by an
-[NSF Graduate Research Fellowship]({{ links.nsf }}). My research interests focus
-on **databases** and **machine learning systems**.
+I am a **PhD student** in [computer science]({{ links.brown_cs }}) at [Brown
+University]({{ links.brown }}), advised by [Uğur Çetintemel]({{ links.ugur }})
+and supported in part by an [NSF Graduate Research Fellowship]({{ links.nsf }}).
+My research interests focus on **databases** and **machine learning systems**.
 
 I graduated from [Amherst College]({{ links.amherst }}) with a Bachelor of Arts
 in [computer science]({{ links.amherst_cs }}) and [mathematics]({{
