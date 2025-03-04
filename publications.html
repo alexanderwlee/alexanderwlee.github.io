@@ -30,8 +30,10 @@ title: Publications
     &nbsp;
     {% endif %}
 
+    {% if pub.code_link %}
     <a href="{{ pub.code_link }}">
       <i class="fa-solid fa-file-code"></i> Code
     </a>
+    {% endif %}
   {% endfor %}
 </ol>
