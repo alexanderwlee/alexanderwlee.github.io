@@ -2,7 +2,7 @@
   authors: <u>Alexander W. Lee</u>, Justin Chan, Michael Fu, Nicolas Kim, Akshay Mehta, Deepti Raghavan, Uğur Çetintemel
   title: "Semantic Integrity Constraints: Declarative Guardrails for AI-Augmented Data Processing Systems"
   paper_link: https://arxiv.org/abs/2503.00600
-  publisher: Preprint (2025)
+  publisher: To appear at VLDB 2025
 - id: rohan
   authors: Maryam Abuissa, <u>Alexander Lee</u>, and Matteo Riondato
   title: "ROhAN: Row-order Agnostic Null Models for Statistically-sound Knowledge Discovery"
