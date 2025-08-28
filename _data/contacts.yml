@@ -4,9 +4,9 @@
 - name: GitHub
   link: https://github.com/alexanderwlee
   icon_class: fa-brands fa-github
-- name: Mastodon
-  link: https://discuss.systems/@alexanderwlee
-  icon_class: fa-brands fa-mastodon
+# - name: Mastodon
+#   link: https://discuss.systems/@alexanderwlee
+#   icon_class: fa-brands fa-mastodon
 - name: Twitter
   link: https://x.com/alexander_w_lee
   icon_class: fa-brands fa-x-twitter
