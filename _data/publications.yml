@@ -1,3 +1,8 @@
+- id: spear
+  authors: Uğur Çetintemel, Shu Chen, <u>Alexander W. Lee</u>, Deepti Raghavan
+  title: Making Prompts First-Class Citizens for Adaptive LLM Pipelines
+  paper_link: https://arxiv.org/abs/2508.05012
+  publisher: Preprint
 - id: sics
   authors: <u>Alexander W. Lee</u>, Justin Chan, Michael Fu, Nicolas Kim, Akshay Mehta, Deepti Raghavan, Uğur Çetintemel
   title: "Semantic Integrity Constraints: Declarative Guardrails for AI-Augmented Data Processing Systems"
