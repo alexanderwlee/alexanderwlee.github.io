@@ -4,8 +4,8 @@ I am a **PhD student** in [computer science]({{ links.brown_cs }}) at [Brown
 University]({{ links.brown }}), advised by [Uğur Çetintemel]({{ links.ugur }})
 and supported in part by an [NSF Graduate Research Fellowship]({{ links.nsf }}).
 I am broadly interested in the intersection of **databases** and **AI**, with a
-current focus on enhancing trust in AI-augmented data systems via integrity
-constraints (a.k.a. guardrails).
+current focus on enhancing trust in AI-augmented data systems via declarative
+integrity constraints (a.k.a. guardrails).
 
 I graduated from [Amherst College]({{ links.amherst }}) with a Bachelor of Arts
 in [computer science]({{ links.amherst_cs }}) and [mathematics]({{
