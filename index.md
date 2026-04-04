@@ -3,9 +3,10 @@
 I am a **PhD student** in [computer science]({{ links.brown_cs }}) at [Brown
 University]({{ links.brown }}), advised by [Uğur Çetintemel]({{ links.ugur }})
 and supported in part by an [NSF Graduate Research Fellowship]({{ links.nsf }}).
-I am broadly interested in the intersection of **databases** and **AI**, with a
-current focus on enhancing trust in semantic data processing systems via
-declarative guardrails.
+Since Fall 2025, I have also been working part-time with [Snowflake AI
+Research]({{ links.snowflake_ai_research }}). I am broadly interested in the
+intersection of **databases** and **AI**, with a current focus on enhancing
+trust in semantic data processing systems via declarative guardrails.
 
 I graduated from [Amherst College]({{ links.amherst }}) with a Bachelor of Arts
 in [computer science]({{ links.amherst_cs }}) and [mathematics]({{

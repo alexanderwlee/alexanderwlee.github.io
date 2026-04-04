@@ -1,6 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
 title: Alexander W. Lee
 logo: /assets/img/headshot.jpg
 news_count: 3
