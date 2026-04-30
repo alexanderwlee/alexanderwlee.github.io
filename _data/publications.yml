@@ -1,3 +1,9 @@
+- id: evergreen
+  authors: <u>Alexander W. Lee</u>, Benjamin Han, Shayak Sen, Sam Yeom, Uğur Çetintemel, Anupam Datta
+  title: "Evergreen: Efficient Claim Verification for Semantic Aggregates"
+  paper_link: https://arxiv.org/abs/2604.26180
+  code_link: https://github.com/brown-db/evergreen
+  publisher: Preprint
 - id: spear
   authors: Uğur Çetintemel, Shu Chen, <u>Alexander W. Lee</u>, Deepti Raghavan, Duo Lu, Andrew Crotty
   title: Making Prompts First-Class Citizens for Adaptive LLM Pipelines
